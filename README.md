@@ -1,4 +1,4 @@
-# For PFE Students - MERN Stack Resources 🌟
+# Unlimited Resources For PFE Students 🌟
 
 Welcome to **For PFE Students** 👋, a curated collection of resources designed to help students working on their *Projet de Fin d'Études* (PFE) with practical MERN stack projects and learning materials. This repository includes source code for functional projects 💻, YouTube playlists 📺, crash courses ⚡, and recommended books 📚 to master React.js, Next.js, Node.js, Express, and MongoDB.
 

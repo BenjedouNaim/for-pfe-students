@@ -66,24 +66,24 @@ Explore the `/projects` folder for source code and detailed instructions 📂.
 
 ---
 
-## YouTube Playlists 🎥
+## Courses 🎥
 Handpicked playlists to help you learn the MERN stack step-by-step:
 
-- **React.js Basics** ⚛️  
-  - [React Tutorial for Beginners](https://www.youtube.com/playlist?list=EXAMPLE_LINK)  
+- **React.js** ⚛️  
+  - [React course](https://youtube.com/playlist?list=PLYyqC4bNbCIdSZ-JayMLl4WO2Cr995vyS&si=uSP0VXWhiJOSUsBj)  
     - Covers components, hooks, and state management.
 
-- **Next.js Fundamentals** 🚀  
-  - [Next.js Crash Course](https://www.youtube.com/playlist?list=EXAMPLE_LINK)  
+- **Next.js** 🚀  
+  - [Next.js 15 Tutorial - Beginner to Advanced](https://www.youtube.com/playlist?list=PLC3y8-rFHvwhIEc4I4YsRz5C7GOBnxSJY)  
     - Learn server-side rendering and static site generation.
 
-- **Node.js & Express** 🟢  
-  - [Node.js and Express Tutorial](https://www.youtube.com/playlist?list=EXAMPLE_LINK)  
-    - Build RESTful APIs from scratch.
+- **MERN** 🟢  
+  - [MERN stack authentication + profile](https://youtube.com/playlist?list=PLr_bWRQ_9ePVfQwf0LorPwTlOZSBoPGIu&si=3WhNJfyqJH2URK_d)  
+    - Build Strong auth system from scratch.
 
-- **Full MERN Stack** 🌍  
-  - [MERN Stack Course](https://www.youtube.com/playlist?list=EXAMPLE_LINK)  
-    - End-to-end MERN application development.
+- **JavaScript** 🌍  
+  - [JS Course](https://www.youtube.com/playlist?list=PLYyqC4bNbCIeLEjcSPO61bsGPKEvYceb0)  
+    - JavaScript beginer to master course.
 
 Explore the `/Courses` folder for more Courses links 🔗.
 
@@ -93,16 +93,13 @@ Explore the `/Courses` folder for more Courses links 🔗.
 Quick, intensive tutorials for rapid learning:
 
 - **React.js Crash Course** ⚛️  
-  - [Link to Crash Course](https://www.youtube.com/watch?v=EXAMPLE_LINK)  
-    - 1-hour intro to React essentials.
+  - [Link to Crash Course](https://www.youtube.com/watch?v=dCLhUialKPQ)  
 
 - **Node.js Crash Course** 🟢  
-  - [Link to Crash Course](https://www.youtube.com/watch?v=EXAMPLE_LINK)  
-    - Core concepts of Node.js in 90 minutes.
+  - [Link to Crash Course](https://www.youtube.com/watch?v=LG7ff9TVWjM&t=4099s)  
 
 - **Express.js Crash Course** 🚀  
-  - [Link to Crash Course](https://www.youtube.com/watch?v=EXAMPLE_LINK)  
-    - Build APIs fast with Express.
+  - [Link to Crash Course](https://www.youtube.com/watch?v=rOpEN1JDaD0)  
 
 Explore the `/Crash Courses` folder for more Crash Courses links 📎.
 

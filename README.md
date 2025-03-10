@@ -1,6 +1,3 @@
-Below is a clean and professional README file tailored for your GitHub repository (`https://github.com/BenjedouNaim/for-pfe-students`) based on the materials you’ve described. I’ve analyzed the repo link you provided (assuming it’s a placeholder for structure inspiration) and created a README that follows a clear, organized format suitable for PFE (Projet de Fin d'Études) students learning MERN stack development.
-
----
 
 # For PFE Students - MERN Stack Resources
 
@@ -89,7 +86,7 @@ Handpicked playlists to help you learn the MERN stack step-by-step:
   - [MERN Stack Course](https://www.youtube.com/playlist?list=EXAMPLE_LINK)  
     - End-to-end MERN application development.
 
-*(Note: Replace `EXAMPLE_LINK` with actual playlist URLs when you add them.)*
+Explore the `/Courses` folder for more Courses link.
 
 ---
 
@@ -108,7 +105,7 @@ Quick, intensive tutorials for rapid learning:
   - [Link to Crash Course](https://www.youtube.com/watch?v=EXAMPLE_LINK)  
     - Build APIs fast with Express.
 
-*(Note: Replace `EXAMPLE_LINK` with actual video URLs.)*
+Explore the `/Crash Courses` folder for more Crash Courses links.
 
 ---
 
@@ -127,7 +124,7 @@ Recommended books (PDFs or links) for deeper understanding:
    - Covers MERN stack in detail.  
    - [Download PDF / Link]()
 
-*(Note: Add actual links or upload PDFs to the `/books` folder.)*
+Explore the `/Pfe Books` folder for Pdfs.
 
 ---
 
@@ -139,7 +136,9 @@ Recommended books (PDFs or links) for deeper understanding:
    ```
 
 2. **Navigate to a Project**  
-   - Go to the `/projects` folder and select a project (e.g., `cd projects/task-manager`).
+   - Go to the `/projects` folder and select a project zip (e.g., `cd projects/Erp.zip`).
+   - Extract the downloaded file 
+   - Open the extracted folder
 
 3. **Install Dependencies**  
    - Run `npm install` in both the `client` and `server` folders (if applicable).
@@ -167,5 +166,5 @@ This repository is licensed under the [MIT License](LICENSE). Feel free to use, 
 
 ---
 
-*Created and maintained by [BenjedouNaim](https://github.com/BenjedouNaim). Happy coding, PFE students!*
+*Created and maintained by [BenjedouNaim](https://www.linkedin.com/in/naimbenjeddou/). Happy coding, PFE students!*
 
